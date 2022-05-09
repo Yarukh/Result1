@@ -1,0 +1,8 @@
+Path for Windows Desktop to be accessed from ubuntu:
+
+/mnt/c/Users/Mahira-Technology/Desktop
+
+
+
+
+token :-   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
